@@ -22,3 +22,4 @@ CREATE TABLE customers
     number_of_complaints int);
 
 
+#RESULT
